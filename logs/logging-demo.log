@@ -1,0 +1,11 @@
+2020-02-24 08:45:33INFO  App:9 -enter material standard required
+1.material standard
+2.above material standarad
+3.high standard
+4.fully automated home
+2020-02-24 08:45:33INFO  App:10 -enter type of material
+2020-02-24 08:45:41INFO  App:12 -3
+2020-02-24 08:45:41INFO  App:13 -enter number of square feets
+2020-02-24 08:45:51ERROR App:16 -3000
+2020-02-24 08:45:51INFO  App:32 -cost of house is
+2020-02-24 08:45:51INFO  App:33 -5400000
